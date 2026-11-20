@@ -40,6 +40,18 @@
       "created_at": "2026-11-20T21:41:12.054Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "e6052262-a36e-4b37-92e2-eea6f79b1e9a",
+      "role": "agent",
+      "content": "Non, pas pour le moment. Votre projet est sauvegardé automatiquement ici, mais il n'est pas encore relié à un dépôt GitHub.\n\nPour connecter votre compte GitHub, il vous suffit de **cliquer sur le logo GitHub situé en haut du chat** : l'ensemble de votre historique et de votre code y sera alors automatiquement synchronisé !",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "8d0ab80c-0601-4577-bc56-948221d5ece5",
+      "created_at": "2026-11-20T21:41:21.706Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
